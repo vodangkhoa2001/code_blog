@@ -1,10 +1,11 @@
 ---
+id: 2
 title: "Hướng Dẫn Cài Đặt Nuxt 4 Cơ Bản"
 description: "Khám phá các bước cần thiết để khởi động dự án Nuxt 4 đầu tiên của bạn."
 author: "Tên Tác Giả Của Bạn"
 date: "2025-11-23"
 tags: ["Nuxt", "Vue", "Frontend", "Hướng Dẫn"]
-image: "/images/nuxt-logo.png"
+image: "~/assets/images/vue-js-1.webp"
 ---
 
 # 🚀 Bài Viết Đầu Tiên: Bắt Đầu Với Nuxt 4
